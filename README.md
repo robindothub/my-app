@@ -1,2 +1,2 @@
 # my-app
-This is an Jenkins test project
+This is an Jenkins test project.
